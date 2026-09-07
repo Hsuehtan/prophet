@@ -17,12 +17,19 @@
 
 以下记录整理自 2026-09-07 至 2026-09-08 的项目讨论。后续每次讨论继续按日期追加。
 
+## 协作者身份映射
+
+- 妥年橙 / TNC：Git 提交身份 `Haon.Hsu`
+- Louhuan：Git 提交身份 `Shaw485`
+
+后续查看提交、分工和讨论时，按这个映射识别两位协作者。
+
 ## 讨论记录
 
 ### 2026-09-07：同步仓库并确认项目状态
 
 - 问题：同事上传了什么内容，仓库是否已经有可运行项目？
-- 结论：仓库已从 `https://github.com/Hsuehtan/prophet.git` 同步到本地，当前 `main` 为提交 `2c1755b`。仓库主要包含 MVP 需求文档，还没有应用代码。
+- 结论：妥年橙（TNC，Git 身份 `Haon.Hsu`）上传的仓库已从 `https://github.com/Hsuehtan/prophet.git` 同步到本地，当前 `main` 为提交 `2c1755b`。仓库主要包含 MVP 需求文档，还没有应用代码。
 - 依据：`README.md` 和 `docs/ideas/universal-growth-analysis-agent-mvp.md`；`dev`、`prod` 分支也只有初始化内容。
 - 影响：当前工作应先做一个可演示的最小闭环，而不是直接假设已有前后端或埋点 SDK。
 - 待验证：首个业务场景、数据来源、技术栈和真实测试数据尚未确定。
