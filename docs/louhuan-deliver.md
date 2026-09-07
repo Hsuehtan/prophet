@@ -1,4 +1,4 @@
-# Prophet 交付物记录
+# Louhuan Deliver — Prophet 交付物记录
 
 > 用途：登记项目中已经完成、正在进行和待验收的交付物，让两位协作者清楚谁负责什么、结果在哪里、怎样算完成。
 
@@ -21,9 +21,9 @@
 | 同步同事的 GitHub 仓库 | 共同 | 已完成 | `origin/main` 已同步到提交 `2c1755b` |
 | MVP 需求解读 | 共同 | 已完成 | `docs/ideas/universal-growth-analysis-agent-mvp.md` |
 | 产品流程图和项目说明 | 共同 | 已完成 | 本仓库的项目讨论记录 |
-| 发现并记录“埋点前置环节”缺口 | 共同 | 已完成 | `docs/thinking-log.md` 的 2026-09-08 记录 |
+| 发现并记录“埋点前置环节”缺口 | 共同 | 已完成 | `docs/louhuan-log.md` 的 2026-09-08 记录 |
 | 三天协作分工和计划 | 共同 | 已完成 | 本文“三天原型交付计划” |
-| 协作文档拆分 | 共同 | 已完成 | `docs/thinking-log.md` 和 `docs/deliverables.md` |
+| 协作文档拆分 | 共同 | 已完成 | `docs/louhuan-log.md` 和 `docs/louhuan-deliver.md` |
 
 ## 三天原型交付计划
 
@@ -61,4 +61,3 @@
 - 哪些数据可以上传，如何脱敏、留存和删除？
 - 三天原型是命令行、简单网页，还是只输出结构化 JSON？
 - 两位协作者的姓名、负责人映射和每天的实际投入时间是什么？
-
